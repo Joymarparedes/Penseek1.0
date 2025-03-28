@@ -30,14 +30,13 @@ If Peenseek doesn't open when you double-click the binary, follow these steps:
     python3 penseek.py
 
 Installation & Requirements
-Dependencies
+Dependencies    Python 3.x 
 
-    Python 3.x
-    Peenseek is built with Python 3. You’ll need Python 3 installed on your system. You can install it via:
+Peenseek is built with Python 3. You’ll need Python 3 installed on your system. You can install it via:
 
-sudo apt install python3
+        sudo apt install python3
 
 Required Python Libraries:
 You can install the required libraries using pip:
 
-pip install -r requirements.txt
+      pip install -r requirements.txt
