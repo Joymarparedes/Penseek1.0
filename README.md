@@ -1,6 +1,7 @@
 Peenseek 1.0
 
 Peenseek is an offline CVE database reader designed for cybersecurity students, penetration testers, and anyone exploring the world of ethical hacking. With a retro aesthetic, Peenseek mimics old-school hacker tools, making learning about cybersecurity fun while browsing through vulnerabilities.
+
 About
 
     Created by: Joymar Paredes
