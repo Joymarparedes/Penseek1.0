@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Pqa1zWX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DDQM3dy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Peenseek 1.0
 
