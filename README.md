@@ -1,4 +1,4 @@
-<img src="https://imgur.com/DDQM3dy">
+<img src="https://imgur.com/DDQM3dy.png">
 
 Peenseek 1.0
 
